@@ -1,9 +1,9 @@
 gText_Birch_Welcome::
-	.string "Hi! Sorry to keep you waiting!\p"
-	.string "Welcome to the world of POKéMON!\p"
-	.string "My name is BIRCH.\p"
-	.string "But everyone calls me the POKéMON\n"
-	.string "PROFESSOR.\p"
+	.string "¡Hola desconocido! si estás\n"
+	.string "viendo ésto es porque Drai lo logró.\p"
+	.string "¿Te preguntas el qué? Yo te respondo,\n"
+	.string "logró instalar Decomp y compilar una ROM\l"
+	.string "sin que su PC explotara. Es un milagro.\p"
 	.string "$"
 
 gText_Birch_Pokemon::
